@@ -7,7 +7,7 @@
 
 ## 🧠 About Me
 
-I’m a self-driven problem solver with a background in **English and Political Science**, now fully committed to tech, especially **data analytics, coding, and app development**. My work reflects my belief that data is not just numbers—it’s people, context, and opportunities waiting to be revealed.
+I’m a self-driven problem solver with a background in **English and Political Science**, now fully committed to tech, especially **data analytics, coding, and app development**. My work reflects my belief that data is not just numbers; it’s people, context, and opportunities waiting to be revealed.
 
 Whether I’m analysing trends in public health, building dashboards for businesses, or experimenting with app interfaces, I bring clarity, critical thinking, and purpose to everything I do.
 
